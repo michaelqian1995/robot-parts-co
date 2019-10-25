@@ -1,0 +1,22 @@
+# humanstext.org
+
+# TEAM
+
+---
+
+# THANKS
+
+---
+
+# TEXHNOLOGY
+
+## Software
+
+## Hosting
+
+# robotstxt.org
+
+Sitemap: http://robotparts.co/sitemap.xml
+
+User-Agent: *
+Disallow:
